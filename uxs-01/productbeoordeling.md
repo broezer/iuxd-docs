@@ -2,7 +2,7 @@
 layout: default
 title: Productbeoordeling - Discovery & Ideation
 parent: UX Studio I
-permalink: /uxs-01/productbeoordeling
+permalink: /uxs-01/productbeoordeling.html
 
 ---
 

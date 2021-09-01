@@ -2,7 +2,7 @@
 layout: default
 title: Teambeoordeling - Discovery & Ideation
 parent: UX Studio I
-permalink: /uxs-01/teambeoordeling
+permalink: /uxs-01/teambeoordeling.html
 
 ---
 
