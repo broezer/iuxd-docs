@@ -12,4 +12,4 @@ permalink: /dux/
 
 # Designing the User Experience
 
-[Modulewijzer_CMIIED043T - Designing User Experience (PDF)](modulewijzer_CMIIED043T - Designing User Experience.pdf)
+[modulewijzer_CMIIED043T - Designing User Experience (PDF)](modulewijzer_CMIIED043T - Designing User Experience.pdf){: .btn }
