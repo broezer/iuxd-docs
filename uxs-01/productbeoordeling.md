@@ -98,3 +98,5 @@ als junior ontwerpers.
 Het team heeft doortastend gecommuniceerd met de opdrachtgever en andere
 stakeholders, is in staat geweest om tegenslagen te verwerken en om te
 gaan met kritiek en feedback van opdrachtgever en projectbegeleider.
+
+[UX Studio 1 - Productbeoordeling Discovery & Ideation (PDF)](UX Studio 1 - Productbeoordeling Discovery & Ideation.pdf){: .btn }

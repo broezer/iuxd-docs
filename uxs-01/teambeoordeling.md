@@ -187,3 +187,5 @@ gaan met kritiek en feedback van de opdrachtgever en projectbegeleider.
 Gedurende het project heb je je opgesteld als een junior professional en
 de daarbij behorende taken naar vermogen uitgevoerd. Je levert je werk
 foutloos, op tijd en verzorgd op.
+
+[UX Studio 1 - Teambeoordeling — Discovery & Ideation (PDF)](UX Studio 1 - Teambeoordeling — Discovery & Ideation.pdf){: .btn }
