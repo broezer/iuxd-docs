@@ -13,5 +13,12 @@ Documentbase voor de minor IUXD.
 We zijn druk bezig om alle modulewijzers en opdrachten spoedig een plekje te geven. 
 De belangrijkste deadlines zal je direct hier vinden.\
 \
-**Donderdag 2 september om 20:00** Inschrijving Teams \
+**Donderdag 2 september om 20:00** Inschrijving Teams 
+
+[Inschrijformulier UX Studio Teams](https://forms.office.com/r/Yndd6PruxF){: .btn .btn-green }
+
+
+
 **Zondag 5 september om 20:00** Goal Setting Opdracht
+
+
