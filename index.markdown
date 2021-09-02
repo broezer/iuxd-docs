@@ -22,3 +22,4 @@ De belangrijkste deadlines zal je direct hier vinden.\
 **Zondag 5 september om 20:00** Goal Setting Opdracht
 
 
+[‘Ik ga statement’ - Formulier](https://forms.office.com/Pages/ResponsePage.aspx?id=zrpvyrp8U02GgaBihPf_RqNMwX3GqaxIi4o1tnunxQxURTJENU0zN0IwTjM4SExYNk9TS0pFQVU1QyQlQCN0PWcu){: .btn .btn-green }
