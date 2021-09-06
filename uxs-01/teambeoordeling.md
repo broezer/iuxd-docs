@@ -189,3 +189,5 @@ de daarbij behorende taken naar vermogen uitgevoerd. Je levert je werk
 foutloos, op tijd en verzorgd op.
 
 [UX Studio 1 - Teambeoordeling — Discovery & Ideation (PDF)](UX Studio 1 - Teambeoordeling — Discovery & Ideation.pdf){: .btn }
+
+[Toetsformulier: UX Studio 1 - Teambeoordeling — Discovery & Ideation (PDF)](02_UXS1_Teamassessment.pdf){: .btn }

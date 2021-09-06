@@ -100,3 +100,5 @@ stakeholders, is in staat geweest om tegenslagen te verwerken en om te
 gaan met kritiek en feedback van opdrachtgever en projectbegeleider.
 
 [UX Studio 1 - Productbeoordeling Discovery & Ideation (PDF)](UX Studio 1 - Productbeoordeling Discovery & Ideation.pdf){: .btn }
+
+[Toetsformulier: UX Studio 1 - Productbeoordeling — Discovery & Ideation (PDF)](01_UXS1_Productbeoordeling.pdf){: .btn }
