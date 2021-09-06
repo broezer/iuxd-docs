@@ -24,6 +24,11 @@ De belangrijkste deadlines zal je direct hier vinden.\
 
 [‘Ik ga statement’ - Formulier](https://forms.office.com/Pages/ResponsePage.aspx?id=zrpvyrp8U02GgaBihPf_RqNMwX3GqaxIi4o1tnunxQxURTJENU0zN0IwTjM4SExYNk9TS0pFQVU1QyQlQCN0PWcu){: .btn .btn-green }
 
+## Klassenindeling
+[Klas A ](klas_a.pdf){: .btn .btn-purple }
+
+[Klas B ](klas_b.pdf){: .btn .btn-purple }
+
 ## Roosters
 [OP1: Klas A Rooster](rooster_klas_a.pdf){: .btn .btn-purple }
 
