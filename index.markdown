@@ -11,9 +11,7 @@ nav_order: 1
 
 Documentbase voor de minor IUXD. 
 We zijn druk bezig om alle modulewijzers en opdrachten spoedig een plekje te geven. 
-De belangrijkste deadlines zal je direct hier vinden.\
-
-Jasper Test even of hij nu ook kan deployen...
+De belangrijkste deadlines zal je direct hier vinden.
 
 **Zondag 5 september om 20:00** Goal Setting Opdracht
 
