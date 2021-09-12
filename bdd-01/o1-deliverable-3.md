@@ -5,6 +5,9 @@ parent: Becoming a Digital Designer I
 permalink: /bdd-01-o1-deliverable-3.html
 
 ---
+Draft, nog niet definitief!
+{: .label .label-red }
+
 
 1. TOC
 {:toc}

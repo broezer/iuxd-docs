@@ -10,6 +10,9 @@ permalink: /bdd-01/
 
 ---
 
+Draft, nog niet definitief!
+{: .label .label-red }
+
 # Becoming a Digital Designer
 
 ### Inleiding
