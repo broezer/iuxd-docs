@@ -10,9 +10,6 @@ permalink: /bdd-01/
 
 ---
 
-Draft, nog niet definitief!
-{: .label .label-red }
-
 # Becoming a Digital Designer
 
 ### Inleiding
@@ -20,10 +17,10 @@ Draft, nog niet definitief!
 Gedurende dit kwartaal verdiep je je in een onderwerp dat relevant is voor het ontwerpen en ontwikkelen van interactieve producten en diensten. 
 
 Dit kan zijn op het gebied van:
-- tools, 
-- methodes,
-- theorie,
-- benaderingen. 
+- Tools, 
+- Methodes,
+- Theorie,
+- Benaderingen. 
 
 Je doet een literatuuronderzoek (zowel online als in (academische) vaktijdschriften (bijv. Interactions), papers (zie de ACM Digital Library http://dl.acm.org) en vakliteratuur. (onder andere de titels die beschikbaar zijn gesteld via de literatuurlijst voor de minor). 
 
