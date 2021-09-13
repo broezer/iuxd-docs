@@ -5,14 +5,6 @@ parent: Becoming a Digital Designer I
 permalink: /bdd-01-o1-deliverable-4.html
 
 ---
-Draft, nog niet definitief!
-{: .label .label-red }
-
-
-1. TOC
-{:toc}
-
-
 # Deliverable 4: Verslag Workshop
 
 Tijdens de workshop heb je, als het goed is, een aantal belangrijke inzichten opgedaan in jouw ontwerp-methode. Het is dan ook van groot belang dat je deze inzichten verzameld en een duidelijk verslag maakt van je workshop.
@@ -29,12 +21,12 @@ A4 liggend of staand formaat
 • Het verslag benoemd de discussiepunten die tijdens de workshop aan bod gekomen zijn.
 
 ### Deadline
-De deadline voor oplevering is dinsdag 3 november in week 9 om 23:59.
+De deadline voor oplevering is dinsdag 9 november in week 10 om 23:59.
 
 ### Opleveren
 Je levert een PDF-file op van het verslag van je workshop met de volgende filename:
 
-`[Naam van je onderwerp]_ Verslag _Workshop_ Van_der_Ven_Jeroen_0757136.pdf`
+`Naam van je onderwerp_Verslag_Workshop_ Van_der_Ven_Jeroen_0757136.pdf`
 
 Je post deze PDF in het ‘Becoming a Digital Designer’ Teams kanaal.
 
