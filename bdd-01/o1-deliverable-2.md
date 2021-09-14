@@ -5,12 +5,6 @@ parent: Becoming a Digital Designer I
 permalink: /bdd-01-o1-deliverable-2.html
 
 ---
-Draft, nog niet definitief!
-{: .label .label-red }
-
-
-1. TOC
-{:toc}
 
 # Deliverable 2: Voorbeelduitwerking
 
@@ -22,14 +16,13 @@ Naast de workshop werk je ook een voorbeelduitwerking van de deliverable uit die
 - De uitwerking maakt voor iedereen inzichtelijk wat de kwaliteitseisen aan deze deliverable is.
 
 ### Deadline
-De deadline voor oplevering is maandag 26 oktober in week 8 om 23:59.
+De deadline voor oplevering is maandag 25 oktober in week 8 om 23:59.
 
-Na deze deadline kun je nog tot 3 november je voorbeelduitwerking verbeteren op basis van input uit de peerreviews en andere workshops.
 
 ### Opleveren
-Je levert je worked example op in een ZIP bestand met de volgende filename:
+Je levert je voorbeelduitwerking op in een ZIP bestand met de volgende filename:
 
-`[Naam van de ontwerp-methode]_ Worked-Example_ Van_der_Ven_Jeroen_0757136.zip`
+`Onderwerp_Voorbeelduitwerking_Van_der_Ven_Jeroen_0757136.zip`
 
 Je post deze ZIP-file in het in het ‘Becoming a Digital Designer’ Teams kanaal.
 
@@ -41,9 +34,7 @@ Je post deze MP4-file in het ‘Becoming a Digital Designer’ Teams kanaal.
 De voorbeelduitwerking wordt getoetst aan de hand van de volgende criteria:
 
 #### Onderbouwing aan de hand van onderzoek
-
 De uitgewerkte deliverable onderbouw je aan de hand van het onderzoek wat je gedaan hebt naar jouw ontwerpmethode.
 
 #### Kwaliteiteisen deliverable
-
 Je voorbeelduitwerking is een voorbeeld van een kwalitatief hoogwaardige uitwerking van deze deliverable. Hierbij demonstreer je hoe jouw voorbeeld uitwerking voldoet aan de kwaliteitscriteria van een goed voorbeeld.

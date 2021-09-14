@@ -5,12 +5,9 @@ parent: Becoming a Digital Designer I
 permalink: /bdd-01-o1-deliverable-1.html
 
 ---
-Draft, nog niet definitief!
-{: .label .label-red }
 
 
 # Deliverable 1: Workshop
-
 Je ontwikkelt een workshop van 60 minuten, bestaande uit vier onderdelen:
 
 ### Presentatie (20 minuten)
@@ -26,26 +23,26 @@ Het grootste deel van de workshop besteed je aan een oefening waarbij de deelnem
 Na de presentatie en de bespreking van de voorbeelduitwerking ga je met je deelnemers in discussie. Zij hebben zich ook ingelezen in jouw onderwerp, en zullen proberen om jouw workshop onderuit te halen. Je neemt deze discussie op met behulp van een voicerecorder (zoals bijvoorbeeld aanwezig is op je smartphone).
 
 ### Deadline
-De deadline voor oplevering is maandag 2 november in week 9 om 23:59:59.
+De deadline voor oplevering van de presentatie is **maandag 25 oktober** in **week 8** om **23:59:59**.
+De deadline voor oplevering van de discussie is **maandag 1 november** in **week 9** om **23:59:59**.
+
 
 ### Opleveren
 Je levert een PDF-file op van de presentatie die je gebruikt hebt bij je workshop met de volgende filename:
 
-`[Naam van je onderwerp]_ Workshop_ Van_der_Ven_Jeroen_0757136.pdf`
+`Naam van je onderwerp_Workshop_ Van_der_Ven_Jeroen_0757136.pdf`
 
 Je post deze PDF in jullie eigen map in het ‘Becoming a Digital Designer’ Teams kanaal.
 
 Daarnaast lever je een MP3 (of MP4) op van de met jouw deelnemers gevoerde discussie. 
-`[Naam van je onderwerp]_ Workshop_ Van_der_Ven_Jeroen_0757136.mp3 / .mp4`
+`Naam van je onderwerp_Workshop_ Van_der_Ven_Jeroen_0757136.mp3 / .mp4`
 
 Je post deze MP3/MP4 in het ‘Becoming a Digital Designer’ Teams kanaal.
 
 ### Toetsing
-
 De workshop wordt aan de hand van de volgende criteria getoetst:
 
 #### Uitwerking workshoppresentatie
-
 De presentatie behandelt het uitwerken van één specifiek onderwerp wat gerelateerd is aan het ontwerpen van interactieve producten of diensten. Hierbij komende de achtergronden van het onderwerp aan bod, en wordt aan de deelnemers van de workshop aan de hand van een voorbeelduitwerking aangeleerd hoe ze de beroepsproducten maken die bij dit onderwerp passen. 
 
 #### Workshop discussie
