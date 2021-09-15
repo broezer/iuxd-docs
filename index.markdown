@@ -18,7 +18,7 @@ De belangrijkste deadlines zal je direct hier vinden.
 
 **Vrijdag 17 september om 12:00** 2.2 Debrief Workshop 
 
-**Vrijdag 21 september**  2.3 Rapportage Workshop 
+**Dinsdag 21 september**  2.3 Rapportage Workshop 
 
 ## Deadlines Becoming a Digital Designer
 
