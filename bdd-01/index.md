@@ -14,7 +14,7 @@ permalink: /bdd-01/
 
 ### Inleiding
 
-Gedurende dit kwartaal verdiep je je in een onderwerp dat relevant is voor het ontwerpen en ontwikkelen van interactieve producten en diensten. 
+Tijdens dit kwartaal verdiep je je in een onderwerp dat relevant is voor het ontwerpen en ontwikkelen van interactieve producten en diensten. 
 
 Dit kan zijn op het gebied van:
 - Tools, 
