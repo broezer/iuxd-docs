@@ -13,10 +13,18 @@ Documentbase voor de minor IUXD.
 We zijn druk bezig om alle modulewijzers en opdrachten spoedig een plekje te geven. 
 De belangrijkste deadlines zal je direct hier vinden.
 
-**Zondag 5 september om 20:00** Goal Setting Opdracht
 
+## Deadlines UX Studio 
 
-[‘Ik ga statement’ - Formulier](https://forms.office.com/Pages/ResponsePage.aspx?id=zrpvyrp8U02GgaBihPf_RqNMwX3GqaxIi4o1tnunxQxURTJENU0zN0IwTjM4SExYNk9TS0pFQVU1QyQlQCN0PWcu){: .btn .btn-green }
+**Vrijdag 17 september om 12:00** 2.2 Debrief Workshop 
+
+**Vrijdag 21 september**  2.3 Rapportage Workshop 
+
+## Deadlines Becoming a Digital Designer
+
+**Maandag 25 oktober om 23:59:59** Presentatie Workshop
+
+**Maandag 1 november om 23:59:59** Discussie Workshop
 
 ## Klassenindeling
 [Klas A ](klas_a.pdf){: .btn .btn-purple } Studio Klas A: WD 02.016
