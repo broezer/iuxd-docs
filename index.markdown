@@ -16,9 +16,13 @@ De belangrijkste deadlines zal je direct hier vinden.
 
 ## Deadlines UX Studio 
 
-**Vrijdag 17 september om 12:00** 2.2 Debrief Workshop 
+**Dinsdag 21 september**  2.3 Rapportage Workshop
 
-**Dinsdag 21 september**  2.3 Rapportage Workshop 
+**Vrijdag 1 oktober om 12:00**  3.1 Presentatie Discovery Fase  
+
+**Vrijdag 1 oktober om 12:00**  3.2 Debrief Discovery Fase 
+
+**Vrijdag 1 oktober om 12:00**  3.3 Onderzoeksverslag 
 
 ## Deadlines Becoming a Digital Designer
 
