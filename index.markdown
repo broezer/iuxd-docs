@@ -31,6 +31,10 @@ De belangrijkste deadlines zal je direct hier vinden.
 
 **Maandag 1 november om 23:59:59** Discussie Workshop
 
+## UX Studio Team Assessments
+
+![inline](team-assessments-01.png)
+
 ## Klassenindeling
 [Klas A ](klas_a.pdf){: .btn .btn-purple } Studio Klas A: WD 02.016
 
