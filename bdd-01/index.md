@@ -10,7 +10,7 @@ permalink: /bdd-01/
 
 ---
 
-# Becoming a Digital Designer
+# Becoming a Digital Designer - Bruce is een lul
 
 ### Inleiding
 
