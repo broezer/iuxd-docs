@@ -119,7 +119,8 @@ Je post deze PDF in jullie eigen map in het ‘Becoming a Digital Designer’ Te
 ## Onepager - Webpagina
 
 ### Voorbeelden
-- *Soon to be revealed!*
+- [NOS - Trombose](https://app.nos.nl/op3/scrollytell/#/trombose)
+- [NOS - Vakantieplanner](https://app.nos.nl/op3/vakantieplanner/)
 
 ### Randvoorwaarden
 - 1000 - 1.500 woorden
