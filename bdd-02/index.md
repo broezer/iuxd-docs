@@ -22,7 +22,7 @@ Nu de eerste iteratie van de workshop is gedraaid, gaan we in deze periode de fo
 
 De planning voor de tweede periode is als volgt:
 
-- Week 1 (16 november) — Bespreken opdracht, duo’s maken onderwerpen bekijken
+- Week 1 (16 november) — Bespreken OP2
 - Week 2 (23 november) — Feedback Coaches - Bespreken Verbeterplan
 - Week 3 (30 november) — Workshop 2.0
 - Week 4 (7 december) — Opleveren Workshop 2.0

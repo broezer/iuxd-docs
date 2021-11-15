@@ -49,7 +49,7 @@ Het verbeterplan beschrijft de verbeteringen die moeten worden doorgevoerd aan d
 ---
 
 ## Deliverable 2 - Workshoppresentatie 2.0 & Changelog
-Vervolgens ga je op 30 november je workshop een tweede keer geven. Dit doe je met nieuwe deelnemers uit het tweede jaar van de opleiding CMD. Op basis van het verbeterplan dat je hebt gemaakt ga je aan de slag met je workshop. Wat ging er de eerste keer x	niet goed? Wat kan er beter? Waar kan je nu de tijd voor nemen om even goed aan te pakken? Welke feedback kreeg je in de eerste ronde die je nu kunt verwerken?
+Vervolgens ga je op 30 november je workshop een tweede keer geven. Dit doe je met nieuwe deelnemers uit het tweede jaar van de opleiding CMD. Op basis van het verbeterplan dat je hebt gemaakt ga je aan de slag met je workshop. Wat ging er de eerste keer niet goed? Wat kan er beter? Waar kan je nu de tijd voor nemen om even goed aan te pakken? Welke feedback kreeg je in de eerste ronde die je nu kunt verwerken?
 
 Wederom ga je een workshop van 60 minuten geven. Kijk goed naar de vorm en opbouw. Wat laat je hetzelfde en wat pas je aan? Documenteer je verbeteringen in een ‘Change Log’. Deze slide geeft een kort overzicht van wat er verandert en verbeterd is aan je presentatie. Deze slide lever je op met versie 2 van je workshoppresentatie. 
 
