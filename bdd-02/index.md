@@ -43,3 +43,9 @@ Opdracht 2: Uitdragen
 - Dinsdag 25 januari 23:59 uur — Image Swiper & Gekozen Vertelvorm
 
 *Wees slim en zet de data alvast in je agenda!*
+
+
+### Beoordelingsformulier
+
+Bekijk hier het beoordelingsformulier: 
+[OP2: Beoordelingsformulier](/bdd-02/template_beoordelingsformulier_op2.pdf){: .btn .btn-purple }

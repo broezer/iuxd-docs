@@ -57,7 +57,7 @@ Wederom ga je een workshop van 60 minuten geven. Kijk goed naar de vorm en opbou
 De randvoorwaarden voor de workshoppresentatie zijn identiek aan die uit de eerste versie van je workshop (presentatie, oefening, discussie). Daar komt uiteraard de ‘change log’ bij.
 
 ### Deadline
-De deadline voor oplevering van de presentatie en de discussie is **dinsdag 30 november om 23:59**.
+De deadline voor oplevering van de presentatie en de discussie is **dinsdag 7 december om 23:59**.
 
 ### Opleveren
 Je levert een PDF-file op van de presentatie die je gebruikt hebt bij je workshop met de volgende filename: 

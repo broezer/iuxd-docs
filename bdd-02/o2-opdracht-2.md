@@ -61,7 +61,7 @@ Je post deze files in jullie eigen map in het ‘Becoming a Digital Designer’ 
 - Kies een visuele stijl (kleuren/fonts etc.)
 - Werk met grafische vormen/iconen/animaties
 - Maak het verhaal visueel aantrekkelijk
-- Houd de slides kort, krachtig en behapbaar
+- Houd de scenes kort, krachtig en behapbaar
 - Zorg dat het ‘deelbaar’ is
 
 ### Opleveren 
