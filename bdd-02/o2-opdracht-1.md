@@ -17,8 +17,8 @@ De eerste deliverable voor deze periode is een verbeterplan. Het verbeterplan is
 
 Grofweg vallen de verbeteringen die je moet doen tijdens deze tweede iteratie uiteen in drie soorten verbeteringen: 
 	- Verbeteringen aan de inhoud van de workshop en de voorbeelduitwerking. 
-	- Verbeteringen aan de vorm van de workshop en de voorbeelduitwerking.
-	- Verbeteringen aan de uitwerking van de workshop. 
+	- Verbeteringen aan de vorm/flow van de workshop en de voorbeelduitwerking.
+	- Verbeteringen aan de uitwerking/ontwerp van de workshop. 
 
 ---
 
@@ -27,8 +27,8 @@ De eerste deliverable voor deze sprint is een verbeterplan op 1 A4 waarop je de 
 
 ### Randvoorwaarden
 - Je beschrijft wat er verbeterd moet worden aan de inhoud van de workshop en de voorbeelduitwerking.
-- Je beschrijft wat er verbeterd moet worden aan de vorm van de workshop en voorbeelduitwerking.
-- Je beschrijft wat er verbeterd moet worden aan de uitwerking van de workshop.
+- Je beschrijft wat er verbeterd moet worden aan de vorm/flow van de workshop en voorbeelduitwerking.
+- Je beschrijft wat er verbeterd moet worden aan de uitwerking/ontwerp van de workshop.
 
 ### Deadline
 De deadline voor oplevering van het verbeterplan is **vrijdag 26 november in week 2 om 23:59**.
@@ -44,20 +44,20 @@ Je post deze PDF in jullie eigen map in het ‘Becoming a Digital Designer’ Te
 Het verbeterplan wordt aan de hand van de volgende criteria getoetst: 
 
 #### Uitwerking verbeterplan
-Het verbeterplan beschrijft de verbeteringen die moeten worden doorgevoerd aan de inhoud, vorm en uitwerking van de workshop en biedt duidelijke aanknopingspunten voor de te realiseren verbeteringen.
+Het verbeterplan beschrijft de verbeteringen die moeten worden doorgevoerd aan de inhoud, vorm/flow en uitwerking/ontwerp van de workshop en biedt duidelijke aanknopingspunten voor de te realiseren verbeteringen.
 
 ---
 
 ## Deliverable 2 - Workshoppresentatie 2.0 & Changelog
-Vervolgens ga je op 30 november je workshop een tweede keer geven. Dit doe je met nieuwe deelnemers uit het tweede jaar van de opleiding CMD. Op basis van het verbeterplan dat je hebt gemaakt ga je aan de slag met je workshop. Wat ging er de eerste keer niet goed? Wat kan er beter? Waar kan je nu de tijd voor nemen om even goed aan te pakken? Welke feedback kreeg je in de eerste ronde die je nu kunt verwerken?
+Vervolgens ga je op dinsdag middag 30 november je workshop een tweede keer geven. Dit doe je met nieuwe deelnemers uit het tweede jaar van de opleiding CMD. Op basis van het verbeterplan dat je hebt gemaakt ga je aan de slag met je workshop. Wat ging er de eerste keer niet goed? Wat kan er beter? Waar kan je nu de tijd voor nemen om even goed aan te pakken? Welke feedback kreeg je in de eerste ronde die je nu kunt verwerken?
 
-Wederom ga je een workshop van 60 minuten geven. Kijk goed naar de vorm en opbouw. Wat laat je hetzelfde en wat pas je aan? Documenteer je verbeteringen in een ‘Change Log’. Deze slide geeft een kort overzicht van wat er verandert en verbeterd is aan je presentatie. Deze slide lever je op met versie 2 van je workshoppresentatie. 
+Wederom ga je een workshop van 60 minuten geven. Kijk goed naar de vorm en opbouw. Wat laat je hetzelfde en wat pas je aan? Documenteer je verbeteringen in een ‘Change Log’. Dit document geeft een kort overzicht van wat er verandert en verbeterd is aan je workshoppresentatie. Dit document lever je op met versie 2 van je workshoppresentatie. 
 
 ### Randvoorwaarden
-Zijn identiek aan die uit de eerste iteratie op de workshop (Presentatie, voorbeelduitwerking, oefening, discussie). Daar komt uiteraard de ‘change log’ bij. 
+De randvoorwaarden voor de workshoppresentatie zijn identiek aan die uit de eerste versie van je workshop (presentatie, oefening, discussie). Daar komt uiteraard de ‘change log’ bij.
 
 ### Deadline
-De deadline voor oplevering van de presentatie en de discussie is **dinsdag 30 november in week 3 om 23:59**.
+De deadline voor oplevering van de presentatie en de discussie is **dinsdag 30 november om 23:59**.
 
 ### Opleveren
 Je levert een PDF-file op van de presentatie die je gebruikt hebt bij je workshop met de volgende filename: 
@@ -83,16 +83,16 @@ Tijdens de discussie wordt besproken op welke wijze de deelnemers de workshop er
 
 ---
 
-## Deliverable 3 - Voorbeelduitwerking 2.0 & Change Log 
+## Deliverable 3 - Voorbeelduitwerking 2.0 & Changelog 
 Naast de workshop verbeter je ook de voorbeelduitwerking van de deliverable uit die bij jouw onderwerp hoort. In deze voorbeelduitwerking laat je zien hoe en wat de belangrijkste kwaliteitskenmerken zijn van de deliverable, en hoe je dit voorbeeld uitwerkt met een softwarepakket als OmniGraffle, of Axure, Sketch, Flinto, Keynote, Framer, Figma, etc.
 
 Ook hierbij lever je een changelog op; wat heb je veranderd/verbeterd? 
 
 ### Randvoorwaarden 
-Zijn identiek aan die uit de eerste iteratie op de workshop. Daar komt uiteraard de ‘change log’ bij. 
+De randvoorwaarden voor de voorbeelduitwerking zijn identiek aan die van de eerste workshop. Daar komt uiteraard de ‘changelog’ bij. 
 
 ### Deadline
-De deadline voor oplevering is **vrijdag 3 december in week 3 om 23:59**. 
+De deadline voor oplevering is **dinsdag 7 december om 23:59**. 
 
 ### Opleveren
 Je levert je voorbeelduitwerking op in een ZIP bestand met de volgende filename: 

@@ -22,11 +22,11 @@ Nu de eerste iteratie van de workshop is gedraaid, gaan we in deze periode de fo
 
 De planning voor de tweede periode is als volgt:
 
-- Week 1 (16 november) — Bespreken OP2
+- Week 1 (16 november) — Bespreken Onderwijsperiode 2
 - Week 2 (23 november) — Feedback Coaches - Bespreken Verbeterplan
-- Week 3 (30 november) — Workshop 2.0
-- Week 4 (7 december) — Opleveren Workshop 2.0
-- Week 5 (14 december) — Start Opdracht 2 Uitdragen
+- Week 3 (30 november) — Workshop 2.0 ('s middags)
+- Week 4 (7 december) — Afronden Opdracht 1 - Workshop 2.0
+- Week 5 (14 december) — Start Opdracht 2 - Uitdragen
 - Week 6 (21 december) — Gastcollege
 - Week 7 (11 januari) — Feedback Coaches - Bespreken Opdracht 2
 - Week 8 (17 januari) — Afronden en opleveren Opdracht 2 / Assessment
@@ -37,8 +37,7 @@ De deadlines voor de tweede periode zijn als volgt:
 
 Opdracht 1: Workshop 2.0
 - Vrijdag 26 november 23:59 uur — Opleveren Verbeterplan
-- Dinsdag 30 november 23:59 uur - Opleveren Presentatie & Discussie & Change Log
-- Vrijdag 3 december 23:59 uur - Opleveren Voorbeelduitwering & Change Log
+- Dinsdag 7 december 23:59 uur - Opleveren Workshopresentatie, Discussie, Opdracht & Changelog; Opleveren Voorbeelduitwerking & Changelog
 
 Opdracht 2: Uitdragen
 - Dinsdag 25 januari 23:59 uur — Image Swiper & Gekozen Vertelvorm
