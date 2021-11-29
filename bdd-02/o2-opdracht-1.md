@@ -48,16 +48,16 @@ Het verbeterplan beschrijft de verbeteringen die moeten worden doorgevoerd aan d
 
 ---
 
-## Deliverable 2 - Workshoppresentatie 2.0 & Changelog
+## Deliverable 2 - Workshoppresentatie 2.0, Peer Review Formulieren & Changelog
 Vervolgens ga je op dinsdag middag 30 november je workshop een tweede keer geven. Dit doe je met nieuwe deelnemers uit het tweede jaar van de opleiding CMD. Op basis van het verbeterplan dat je hebt gemaakt ga je aan de slag met je workshop. Wat ging er de eerste keer niet goed? Wat kan er beter? Waar kan je nu de tijd voor nemen om even goed aan te pakken? Welke feedback kreeg je in de eerste ronde die je nu kunt verwerken?
 
 Wederom ga je een workshop van 60 minuten geven. Kijk goed naar de vorm en opbouw. Wat laat je hetzelfde en wat pas je aan? Documenteer je verbeteringen in een ‘Change Log’. Dit document geeft een kort overzicht van wat er verandert en verbeterd is aan je workshoppresentatie. Dit document lever je op met versie 2 van je workshoppresentatie. 
 
 ### Randvoorwaarden
-De randvoorwaarden voor de workshoppresentatie zijn identiek aan die uit de eerste versie van je workshop (presentatie, oefening, discussie). Daar komt uiteraard de ‘change log’ bij.
+De randvoorwaarden voor de workshoppresentatie zijn identiek aan die uit de eerste versie van je workshop (presentatie, oefening, discussie, peer review formulieren). Daar komt uiteraard de ‘change log’ bij.
 
 ### Deadline
-De deadline voor oplevering van de presentatie en de discussie is **dinsdag 7 december om 23:59**.
+De deadline voor oplevering van de presentatie, peer review formulieren en de discussie is **dinsdag 7 december om 23:59**.
 
 ### Opleveren
 Je levert een PDF-file op van de presentatie die je gebruikt hebt bij je workshop met de volgende filename: 

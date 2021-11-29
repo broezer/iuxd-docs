@@ -37,7 +37,7 @@ De deadlines voor de tweede periode zijn als volgt:
 
 Opdracht 1: Workshop 2.0
 - Vrijdag 26 november 23:59 uur — Opleveren Verbeterplan
-- Dinsdag 7 december 23:59 uur - Opleveren Workshopresentatie, Discussie, Opdracht & Changelog; Opleveren Voorbeelduitwerking & Changelog
+- Dinsdag 7 december 23:59 uur - Opleveren Workshopresentatie, Discussie, Peer Review Formulieren, Opdracht & Changelog; Opleveren Voorbeelduitwerking & Changelog
 
 Opdracht 2: Uitdragen
 - Dinsdag 25 januari 23:59 uur — Image Swiper & Gekozen Vertelvorm
