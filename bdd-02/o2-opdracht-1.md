@@ -72,7 +72,7 @@ Je levert je changelog van de workshop op als een PDF bestand met de volgende fi
 
 Daarnaast lever je een MP3 (of MP4) op van de met jouw deelnemers gevoerde discussie. 
 
-`[Naam van je onderwerp]_Workshop_Teamnaam.mp3 / .mp4`
+`[Naam van je onderwerp]_Discussie_Teamnaam.mp3 / .mp4`
 
 Je post deze MP3/MP4 in jullie eigen map in het ‘Becoming a Digital Designer’ Teams kanaal.
 
