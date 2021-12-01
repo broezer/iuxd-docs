@@ -36,7 +36,7 @@ De deadline voor oplevering van het verbeterplan is **vrijdag 26 november in wee
 ### Opleveren
 Je levert een PDF-file op van het verbeterplan met de volgende filename: 
 
-`[Naam van je onderwerp]_verbeterplan_Van_der_Ven_Jeroen_0757136.pdf`
+`[Naam van je onderwerp]_Verbeterplan_Teamnaam.pdf`
 
 Je post deze PDF in jullie eigen map in het ‘Becoming a Digital Designer’ Teams kanaal. 
 
@@ -62,13 +62,17 @@ De deadline voor oplevering van de presentatie, peer review formulieren en de di
 ### Opleveren
 Je levert een PDF-file op van de presentatie die je gebruikt hebt bij je workshop met de volgende filename: 
 
-`[Naam van je onderwerp]_Workshop_Van_der_Ven_Jeroen_0757136.pdf`
+`[Naam van je onderwerp]_Workshop_Teamnaam.pdf`
 
 Je post deze PDF in jullie eigen map in het ‘Becoming a Digital Designer’ Teams kanaal. 
 
+Je levert je changelog van de workshop op als een PDF bestand met de volgende filename: 
+
+`[Naam van de onderwerp]_Changelog_Workshop_2.0_Teamnaam.zip`
+
 Daarnaast lever je een MP3 (of MP4) op van de met jouw deelnemers gevoerde discussie. 
 
-`[Naam van je onderwerp]_Workshop_Van_der_Ven_Jeroen_0757136.mp3 / .mp4`
+`[Naam van je onderwerp]_Workshop_Teamnaam.mp3 / .mp4`
 
 Je post deze MP3/MP4 in jullie eigen map in het ‘Becoming a Digital Designer’ Teams kanaal.
 
@@ -86,7 +90,7 @@ Tijdens de discussie wordt besproken op welke wijze de deelnemers de workshop er
 ## Deliverable 3 - Voorbeelduitwerking 2.0 & Changelog 
 Naast de workshop verbeter je ook de voorbeelduitwerking van de deliverable uit die bij jouw onderwerp hoort. In deze voorbeelduitwerking laat je zien hoe en wat de belangrijkste kwaliteitskenmerken zijn van de deliverable, en hoe je dit voorbeeld uitwerkt met een softwarepakket als OmniGraffle, of Axure, Sketch, Flinto, Keynote, Framer, Figma, etc.
 
-Ook hierbij lever je een changelog op; wat heb je veranderd/verbeterd? 
+Ook hierbij lever je een changelog op als PDF; wat heb je veranderd/verbeterd? 
 
 ### Randvoorwaarden 
 De randvoorwaarden voor de voorbeelduitwerking zijn identiek aan die van de eerste workshop. Daar komt uiteraard de ‘changelog’ bij. 
@@ -97,13 +101,17 @@ De deadline voor oplevering is **dinsdag 7 december om 23:59**.
 ### Opleveren
 Je levert je voorbeelduitwerking op in een ZIP bestand met de volgende filename: 
 
-`[Naam van de onderwerp]_voorbeelduitwerking_2.0_Van_der_Ven_Jeroen_0757136.zip`
+`[Naam van de onderwerp]_Voorbeelduitwerking_2.0_Teamnaam.zip`
 
 Je post deze ZIP-file in jullie eigen map in het ‘Becoming a Digital Designer’ Teams kanaal. 
 
 Indien je onderwerp niet een specifieke deliverable heeft, maar wel een activiteit omvat (zoals bijvoorbeeld card-sorting), upload je een filmpje waarin je de activiteit demonstreert. Dit filmpje lever je in in MP4 formaat. 
 
 Je post deze MP4-file in jullie eigen map in het ‘Becoming a Digital Designer’ Teams kanaal.
+
+Je levert je changelog van de voorbeelduitwerking op als een PDF bestand met de volgende filename: 
+
+`[Naam van de onderwerp]_Changelog_Voorbeelduitwerking_2.0_Teamnaam.zip`
 
 ### Toetsing
 De voorbeelduitwerking wordt aan de hand van de volgende criteria getoetst: 

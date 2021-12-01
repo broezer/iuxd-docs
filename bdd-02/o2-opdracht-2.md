@@ -43,7 +43,7 @@ Samen gaan jullie twee verschillende vertelvormen uitwerken om je kennis te dele
 
 Je levert de afzonderlijke afbeeldingen als PNG bestand met de volgende filename:
 
-`[Naam van je onderwerp]_Image_Swiper_[x_van_de_y]_ Van_der_Ven_Jeroen_0757136.png`
+`[Naam van je onderwerp]_Image_Swiper_[x_van_de_y]_Teamnaam.png`
 
 Je post deze files in jullie eigen map in het ‘Becoming a Digital Designer’ Teams kanaal.
 
@@ -67,7 +67,7 @@ Je post deze files in jullie eigen map in het ‘Becoming a Digital Designer’ 
 ### Opleveren 
 Je levert een PDF-file op met de URL van je video met de volgende filename:
 
-`[Naam van je onderwerp]_Video-URL_Van_der_Ven_Jeroen_0757136.pdf`
+`[Naam van je onderwerp]_Video-URL_Teamnaam.pdf`
 
 Je post deze PDF in jullie eigen map in het ‘Becoming a Digital Designer’ Teams kanaal.
 
@@ -88,7 +88,7 @@ Je post deze PDF in jullie eigen map in het ‘Becoming a Digital Designer’ Te
 ### Opleveren 
 Je levert een PDF-file op met de URL van je podcast met de volgende filename:
 
-`[Naam van je onderwerp]_Podcast-URL_Van_der_Ven_Jeroen_0757136.pdf`
+`[Naam van je onderwerp]_Podcast-URL_Teamnaam.pdf`
 
 Je post deze PDF in jullie eigen map in het ‘Becoming a Digital Designer’ Teams kanaal.
 
@@ -110,7 +110,7 @@ Je post deze PDF in jullie eigen map in het ‘Becoming a Digital Designer’ Te
 ### Opleveren 
 Je levert een PDF-file op van je Medium artikel met de volgende filename:
 
-`[Naam van je onderwerp]_Medium_Artikel_Van_der_Ven_Jeroen_0757136.pdf`
+`[Naam van je onderwerp]_Medium_Artikel_Teamnaam.pdf`
 
 Je post deze PDF in jullie eigen map in het ‘Becoming a Digital Designer’ Teams kanaal.
 
@@ -134,7 +134,7 @@ Je post deze PDF in jullie eigen map in het ‘Becoming a Digital Designer’ Te
 ### Opleveren 
 Je levert een PDF-file op met de URL van je webpagina met de volgende filename:
 
-`[Naam van je onderwerp]_Webpagina-URL_Van_der_Ven_Jeroen_0757136.pdf`
+`[Naam van je onderwerp]_Webpagina-URL_Teamnaam.pdf`
 
 Je post deze PDF in jullie eigen map in het ‘Becoming a Digital Designer’ Teams kanaal.
 
