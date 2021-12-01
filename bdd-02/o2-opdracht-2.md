@@ -67,7 +67,7 @@ Je post deze files in jullie eigen map in het ‘Becoming a Digital Designer’ 
 ### Opleveren 
 Je levert een PDF-file op met de URL van je video met de volgende filename:
 
-`[Naam van je onderwerp]_Podcast-URL_ Van_der_Ven_Jeroen_0757136.pdf`
+`[Naam van je onderwerp]_Video-URL_Van_der_Ven_Jeroen_0757136.pdf`
 
 Je post deze PDF in jullie eigen map in het ‘Becoming a Digital Designer’ Teams kanaal.
 
@@ -88,7 +88,7 @@ Je post deze PDF in jullie eigen map in het ‘Becoming a Digital Designer’ Te
 ### Opleveren 
 Je levert een PDF-file op met de URL van je podcast met de volgende filename:
 
-`[Naam van je onderwerp]_Podcast-URL_ Van_der_Ven_Jeroen_0757136.pdf`
+`[Naam van je onderwerp]_Podcast-URL_Van_der_Ven_Jeroen_0757136.pdf`
 
 Je post deze PDF in jullie eigen map in het ‘Becoming a Digital Designer’ Teams kanaal.
 
@@ -110,7 +110,7 @@ Je post deze PDF in jullie eigen map in het ‘Becoming a Digital Designer’ Te
 ### Opleveren 
 Je levert een PDF-file op van je Medium artikel met de volgende filename:
 
-`[Naam van je onderwerp]_Medium_Artikel_ Van_der_Ven_Jeroen_0757136.pdf`
+`[Naam van je onderwerp]_Medium_Artikel_Van_der_Ven_Jeroen_0757136.pdf`
 
 Je post deze PDF in jullie eigen map in het ‘Becoming a Digital Designer’ Teams kanaal.
 
@@ -134,7 +134,7 @@ Je post deze PDF in jullie eigen map in het ‘Becoming a Digital Designer’ Te
 ### Opleveren 
 Je levert een PDF-file op met de URL van je webpagina met de volgende filename:
 
-`[Naam van je onderwerp]_Webpagina-URL_ Van_der_Ven_Jeroen_0757136.pdf`
+`[Naam van je onderwerp]_Webpagina-URL_Van_der_Ven_Jeroen_0757136.pdf`
 
 Je post deze PDF in jullie eigen map in het ‘Becoming a Digital Designer’ Teams kanaal.
 
