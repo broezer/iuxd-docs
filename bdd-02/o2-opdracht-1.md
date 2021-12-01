@@ -38,7 +38,7 @@ Je levert een PDF-file op van het verbeterplan met de volgende filename:
 
 `[Naam van je onderwerp]_Verbeterplan_Teamnaam.pdf`
 
-Je post deze PDF in jullie eigen map in het ‘Becoming a Digital Designer’ Teams kanaal. 
+Je post deze PDF in jullie eigen map genaamd ‘01_Verbeterplan’ in het ‘Becoming a Digital Designer’ Teams kanaal. 
 
 ### Toetsing
 Het verbeterplan wordt aan de hand van de volgende criteria getoetst: 
@@ -64,17 +64,21 @@ Je levert een PDF-file op van de presentatie die je gebruikt hebt bij je worksho
 
 `[Naam van je onderwerp]_Workshop_Teamnaam.pdf`
 
-Je post deze PDF in jullie eigen map in het ‘Becoming a Digital Designer’ Teams kanaal. 
+Je levert een changelog van de workshop op als een PDF bestand met de volgende filename: 
 
-Je levert je changelog van de workshop op als een PDF bestand met de volgende filename: 
+`[Naam van de onderwerp]_Changelog_Workshop_2.0_Teamnaam.pdf`
 
-`[Naam van de onderwerp]_Changelog_Workshop_2.0_Teamnaam.zip`
-
-Daarnaast lever je een MP3 (of MP4) op van de met jouw deelnemers gevoerde discussie. 
+Je levert een MP3 (of MP4) op van de met jouw deelnemers gevoerde discussie. 
 
 `[Naam van je onderwerp]_Discussie_Teamnaam.mp3 / .mp4`
 
 Je post deze MP3/MP4 in jullie eigen map in het ‘Becoming a Digital Designer’ Teams kanaal.
+
+Je levert de door de deelnemers ingevulde peer review formulieren op als PDF. 
+
+`[Naam van je deelnemer]_Peerreview_Teamnaam.pdf`
+
+Je post deze bestanden in jullie eigen map genaamd ‘02_Workshop 2.0’ in het ‘Becoming a Digital Designer’ Teams kanaal. 
 
 ### Toetsing
 De workshop wordt aan de hand van de volgende criteria getoetst: 
@@ -103,7 +107,7 @@ Je levert je voorbeelduitwerking op in een ZIP bestand met de volgende filename:
 
 `[Naam van de onderwerp]_Voorbeelduitwerking_2.0_Teamnaam.zip`
 
-Je post deze ZIP-file in jullie eigen map in het ‘Becoming a Digital Designer’ Teams kanaal. 
+Je post deze ZIP-file in jullie eigen map genaamd '02_Workshop 2.0' in het ‘Becoming a Digital Designer’ Teams kanaal. 
 
 Indien je onderwerp niet een specifieke deliverable heeft, maar wel een activiteit omvat (zoals bijvoorbeeld card-sorting), upload je een filmpje waarin je de activiteit demonstreert. Dit filmpje lever je in in MP4 formaat. 
 
@@ -111,7 +115,7 @@ Je post deze MP4-file in jullie eigen map in het ‘Becoming a Digital Designer�
 
 Je levert je changelog van de voorbeelduitwerking op als een PDF bestand met de volgende filename: 
 
-`[Naam van de onderwerp]_Changelog_Voorbeelduitwerking_2.0_Teamnaam.zip`
+`[Naam van de onderwerp]_Changelog_Voorbeelduitwerking_2.0_Teamnaam.pdf`
 
 ### Toetsing
 De voorbeelduitwerking wordt aan de hand van de volgende criteria getoetst: 
