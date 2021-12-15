@@ -29,7 +29,8 @@ De planning voor de tweede periode is als volgt:
 - Week 5 (14 december) — Start Opdracht 2 - Uitdragen
 - Week 6 (21 december) — Gastcollege
 - Week 7 (11 januari) — Feedback Coaches - Bespreken Opdracht 2
-- Week 8 (17 januari) — Afronden en opleveren Opdracht 2 / Assessment
+- Week 8 (18 januari) — Assessment
+- Week 9 (25 januari) - Deadline Opdracht 2
 
 ### Deadlines
 
