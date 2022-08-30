@@ -3,6 +3,7 @@ layout: default
 title: Opdracht 2 - Uitdragen
 parent: Becoming a Digital Designer II
 permalink: /bdd-02/o2-opdracht-2.html
+published: false
 
 ---
 

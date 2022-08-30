@@ -3,6 +3,7 @@ layout: default
 title: Opdracht 1 - Workshop 2.0
 parent: Becoming a Digital Designer II
 permalink: /bdd-02/o2-opdracht-1.html
+published: false
 
 ---
 

@@ -4,6 +4,7 @@ layout: default
 title: Case Video
 parent: Video Visualization
 permalink: /video/case-video.html
+published: false
 
 ---
 

@@ -4,6 +4,8 @@ title: Video Visualization
 nav_order: 7
 has_children: true
 permalink: /video/
+published: false
+
 ---
 
 # UX Studio I

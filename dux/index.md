@@ -7,11 +7,11 @@ title: Designing User Experience
 nav_order: 4
 has_children: true
 permalink: /dux/
+published: true
 
 ---
 
 # Designing the User Experience
 
-[modulewijzer_CMIIED043T - Designing User Experience (PDF)](modulewijzer_CMIIED043T - Designing User Experience.pdf){: .btn }
 
 

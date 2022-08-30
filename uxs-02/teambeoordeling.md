@@ -3,6 +3,7 @@ layout: default
 title: Teambeoordeling - Realisatie & Overdracht
 parent: UX Studio II
 permalink: /uxs-02/teambeoordeling.html
+published: false
 
 ---
 

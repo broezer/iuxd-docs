@@ -7,6 +7,7 @@ title: Becoming a Digital Designer II
 nav_order: 6
 has_children: true
 permalink: /bdd-02/
+published: false
 
 ---
 
