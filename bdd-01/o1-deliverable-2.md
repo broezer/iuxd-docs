@@ -3,6 +3,7 @@ layout: default
 title: 3. Voorbeelduitwerking
 parent: Becoming a Digital Designer I
 permalink: /bdd-01-o1-deliverable-2.html
+published: false
 
 ---
 

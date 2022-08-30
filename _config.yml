@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: IUXD 2021-2022
+title: IUXD 2022-2023
 email: b.r.moerdjiman@hr.nl
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome into the docs of IUXD 2021-2022
+  Welcome into the docs of IUXD 2022-2023
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb

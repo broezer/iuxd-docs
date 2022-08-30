@@ -7,31 +7,26 @@ title: Home
 nav_order: 1
 ---
 
-# Minor: Interface & User Experience Design 2021-2022
+# Minor: Interface & User Experience Design 2022-2023
 
 Documentbase voor de minor IUXD. 
-We zijn druk bezig om alle modulewijzers en opdrachten spoedig een plekje te geven. 
+We zijn druk bezig om alle cursushandleidingen en opdrachten spoedig een plekje te geven. 
 De belangrijkste deadlines zal je direct hier vinden.
 
+## UX Studio 
 
-## Deadlines UX Studio 
+[UX Studio: Inschrijfformulier Teams](https://forms.office.com/r/2DLBcnbnah){: .btn .btn-green }
 
-**Vrijdag 17 september om 12:00** 2.2 Debrief Workshop 
 
-**Dinsdag 21 september**  2.3 Rapportage Workshop 
+## UX Studio : Opdracht 1 - Goal Settings
 
-## Deadlines Becoming a Digital Designer
+Je "ik ga" statement lever je uiterlijk op **zondag 4 september** om
+**20:00** in week 1 op via MS Forms op MS Teams.
 
-**Maandag 25 oktober om 23:59:59** Presentatie Workshop
-
-**Maandag 1 november om 23:59:59** Discussie Workshop
+[‘Ik ga statement’ - Formulier](https://forms.office.com/r/RvPe27Rv9D){: .btn .btn-green }
 
 ## Klassenindeling
-[Klas A ](klas_a.pdf){: .btn .btn-purple } Studio Klas A: WD 02.016
-
-[Klas B ](klas_b.pdf){: .btn .btn-purple }  Studio Klas B: WD 02.019
+Check back soon!
 
 ## Roosters
-[OP1: Klas A Rooster](rooster_klas_a.pdf){: .btn .btn-purple }
-
-[OP1: Klas B Rooster](rooster_klas_b.pdf){: .btn .btn-purple }
+Check back soon!

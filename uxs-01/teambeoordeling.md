@@ -3,18 +3,20 @@ layout: default
 title: Teambeoordeling - Discovery & Ideation
 parent: UX Studio I
 permalink: /uxs-01/teambeoordeling.html
+published: true
 
 ---
+
+[UX Studio 1 - Teambeoordeling — Discover & Ideate Fase (PDF)](UX Studio 1 - Teambeoordeling — Discover & Ideate Fase.pdf){: .btn }
+
+[Toetsformulier: UX Studio 1 - Teambeoordeling — Discover & Ideate Fase (PDF)](02_UXS1_Teamassessment.pdf){: .btn }
 
 1. TOC
 {:toc}
 
 # Inleiding
 
-In de week na de concept presentaties vindt de teambeoordeling plaats.
-Tijdens deze teambeoordeling wordt er met je ontwerpteam een assessment
-afgenomen waarbij vastgesteld wordt hoe jullie gedurende het kwartaal
-gefunctioneerd hebben.
+In de week na de concept presentaties vindt de teambeoordeling plaats. Tijdens deze teambeoordeling wordt er met je ontwerpteam een assessment afgenomen waarbij vastgesteld wordt hoe jullie gedurende het kwartaal gefunctioneerd hebben. 
 
 
 # Toetscriteria
@@ -29,36 +31,21 @@ De belangrijkste punten zijn:
 -   De relatie met de opdrachtgever en de wijze waarop het team daar mee
     is omgegaan.
 
-Vooraf aan de teambeoordeling ontvang je in je Teams een link, naar de
-peer beoordelingsformulieren. Deze vul je voor de deadline **vrijdag 29
-oktober** om **12:00**. Je doet een uitspraak over het functioneren van
-je teammates op de volgende onderdelen:
+Vooraf aan de teambeoordeling ontvang je in je Teams een link, naar de peer beoordelingsformulieren. Deze vul je voor de deadline **vrijdag 21oktober** om **12:00**. Je doet een uitspraak over het functioneren van je teamleden  op de volgende onderdelen:
 
--   Tijdsbesteding (heeft je teammate in jouw ogen voldoende tijd
-    besteed aan het project?)
+-   Tijdsbesteding (heeft je teamlid in jouw ogen voldoende tijd besteed aan het project?)
 
--   Samenwerking en Communicatie (hoe heeft jouw teammate met het team
-    gecommuniceerd, en hoe was de samenwerking?)
+-   Samenwerking en Communicatie (hoe heeft jouw teammate met het team gecommuniceerd, en hoe was de samenwerking?)
 
--   Kwaliteit en Creativiteit (Wat is jouw oordeel over de kwaliteit van
-    het werk van je teammate, en hoe kijk je tegen zijn of haar
-    creatieve vermogens aan?)
+-   Kwaliteit en Creativiteit (Wat is jouw oordeel over de kwaliteit van het werk van je teamlid, en hoe kijk je tegen zijn, haar of hun creatieve vermogens aan??)
 
 De peerbeoordeling wordt door de begeleidend docent voorafgaand aan het
 team assessment gelezen en wordt besproken tijdens het assessment.
 
-De team assessments vinden plaats op **woensdag 3 november** of
-**donderdag 4 november** gedurende een dagdeel. Alle ontwerpteams zijn
-gedurende een dagdeel aanwezig om de assessments bij te wonen. Het
-assessment wordt afgenomen door een panel van project docenten en
-eventuele externen. Om het assessment voor iedereen zo vloeiend mogelijk
-te laten verlopen, is het van belang dat je deze voor de deadline
-inlevert (**vrijdag 29 oktober** om **12:00**), de
-assessment-presentatie beschikbaar maakt via Teams. Alle presentaties
-worden vervolgens verzameld en achter elkaar klaargezet, zodat het
-assessment spoedig kan verlopen. Je kunt de presentatie aanleveren in
-powerpoint, keynote of pdf (vergeet geen fonts, afbeeldingen en andere
-externe afhankelijkheden toe te voegen!)
+De team assessments vinden plaats op **maandag 31 oktober** of
+**donderdag 3 november** gedurende een dagdeel. Alle ontwerpteams zijn gedurende een dagdeel aanwezig om de assessments bij te wonen. Het assessment wordt afgenomen door een panel van project docenten en eventuele externen. Om het assessment voor iedereen zo vloeiend mogelijkte laten verlopen, is het van belang dat je deze voor de deadline
+inlevert (**vrijdag 21 oktober** om **12:00**), de
+assessment-presentatie beschikbaar maakt via Teams. Alle presentaties worden vervolgens verzameld en achter elkaar klaargezet, zodat het assessment spoedig kan verlopen. Je kunt de presentatie aanleveren in powerpoint, keynote of pdf (vergeet geen fonts, afbeeldingen en andere externe afhankelijkheden toe te voegen!)
 
 
 # Het Team Assessment
@@ -188,6 +175,6 @@ Gedurende het project heb je je opgesteld als een junior professional en
 de daarbij behorende taken naar vermogen uitgevoerd. Je levert je werk
 foutloos, op tijd en verzorgd op.
 
-[UX Studio 1 - Teambeoordeling — Discovery & Ideation (PDF)](UX Studio 1 - Teambeoordeling — Discovery & Ideation.pdf){: .btn }
+[UX Studio 1 - Teambeoordeling — Discover & Ideate Fase (PDF)](UX Studio 1 - Teambeoordeling — Discover & Ideate Fase.pdf){: .btn }
 
-[Toetsformulier: UX Studio 1 - Teambeoordeling — Discovery & Ideation (PDF)](02_UXS1_Teamassessment.pdf){: .btn }
+[Toetsformulier: UX Studio 1 - Teambeoordeling — Discover & Ideate Fase (PDF)](02_UXS1_Teamassessment.pdf){: .btn }

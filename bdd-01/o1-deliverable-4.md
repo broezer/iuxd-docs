@@ -3,6 +3,7 @@ layout: default
 title: 5. Verslag Workshop
 parent: Becoming a Digital Designer I
 permalink: /bdd-01-o1-deliverable-4.html
+published: false
 
 ---
 # Deliverable 4: Verslag Workshop

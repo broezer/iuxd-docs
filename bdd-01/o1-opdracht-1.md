@@ -3,6 +3,7 @@ layout: default
 title: 1. Kwartaalopdracht
 parent: Becoming a Digital Designer I
 permalink: /bdd-01-o1-opdracht-1.html
+published: false
 
 ---
 
