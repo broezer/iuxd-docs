@@ -13,5 +13,6 @@ published: true
 
 # Designing the User Experience
 
+[cursushandleiding_CMIIED043T - Designing User Experience (PDF)](cursushandleiding_CMIIED043T - Designing User Experience.pdf){: .btn }
 
 
