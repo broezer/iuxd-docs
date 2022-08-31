@@ -12,3 +12,5 @@ permalink: /bdd-01/
 
 # Becoming a Digital Designer
 
+[BDD - Cursushandleiding Onderzoeken & Uitdragen (PDF)](BDD - Cursushandleiding Onderzoeken & Uitdragen.pdf){: .btn }
+
