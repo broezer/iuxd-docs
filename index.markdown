@@ -29,4 +29,5 @@ Je "ik ga" statement lever je uiterlijk op **zondag 4 september** om
 Check back soon!
 
 ## Roosters
-Check back soon!
+[OP1 - Klas A Rooster](Rooster IUXD - 2223 - OP1 - Klas A.pdf){: .btn .btn-purple }
+[OP1 - Klas B Rooster](Rooster IUXD - 2223 - OP1 - Klas B.pdf){: .btn .btn-purple }
