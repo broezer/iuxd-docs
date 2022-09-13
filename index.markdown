@@ -15,6 +15,8 @@ De belangrijkste deadlines zal je direct hier vinden.
 
 ## UX Studio - Deadlines
 
+### In week 5(26/09 - 29/09) *__zelfstandig__* presenteren bij opdrachtgever
+
 ### Vrijdag 30 september om 12:00
 -  Opdracht 3 - Deliverable 1: Presentatie Discover Fase  
 -  Opdracht 3 - Deliverable 2: Debrief Discover Fase 
