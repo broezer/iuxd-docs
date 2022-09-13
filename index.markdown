@@ -13,20 +13,12 @@ Documentbase voor de minor IUXD.
 We zijn druk bezig om alle cursushandleidingen en opdrachten spoedig een plekje te geven. 
 De belangrijkste deadlines zal je direct hier vinden.
 
-## UX Studio 
+## UX Studio - Deadlines
 
-[UX Studio: Inschrijfformulier Teams](https://forms.office.com/r/2DLBcnbnah){: .btn .btn-green }
-
-
-## UX Studio : Opdracht 1 - Goal Settings
-
-Je "ik ga" statement lever je uiterlijk op **zondag 4 september** om
-**20:00** in week 1 op via MS Forms op MS Teams.
-
-[‘Ik ga statement’ - Formulier](https://forms.office.com/r/RvPe27Rv9D){: .btn .btn-green }
-
-## Klassenindeling
-Check back soon!
+### Vrijdag 30 september om 12:00
+-  Opdracht 3 - Deliverable 1: Presentatie Discover Fase  
+-  Opdracht 3 - Deliverable 2: Debrief Discover Fase 
+-  Opdracht 3 - Deliverable 3: Onderzoeksverslag Discover Fase 
 
 ## Roosters
 [OP1 - Klas A Rooster](Rooster IUXD - 2223 - OP1 - Klas A.pdf){: .btn .btn-purple }
