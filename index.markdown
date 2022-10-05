@@ -15,12 +15,12 @@ De belangrijkste deadlines zal je direct hier vinden.
 
 ## UX Studio - Deadlines
 
-### In week 5(26/09 - 29/09) *__zelfstandig__* presenteren bij opdrachtgever
+### In  week 8 (17 oktober t/m 21 oktober) presenteren bij opdrachtgever *met je UX Studio Coach*!
 
-### Vrijdag 30 september om 12:00
--  Opdracht 3 - Deliverable 1: Presentatie Discover Fase  
--  Opdracht 3 - Deliverable 2: Debrief Discover Fase 
--  Opdracht 3 - Deliverable 3: Onderzoeksverslag Discover Fase 
+### Vrijdag 21 oktober om 12:00
+-  Opdracht 4 - Deliverable 1: Drie Concepten & Prototypes 
+-  Opdracht 4 - Deliverable 2: Presentatie Ideate Fase 
+-  Opdracht 3 - Deliverable 3: Debrief Presentatie Ideate Fase
 
 ## Roosters
 [OP1 - Klas A Rooster](Rooster IUXD - 2223 - OP1 - Klas A.pdf){: .btn .btn-purple }
