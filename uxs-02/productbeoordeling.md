@@ -3,7 +3,7 @@ layout: default
 title: Productbeoordeling - Realisatie & Overdracht
 parent: UX Studio II
 permalink: /uxs-02/productbeoordeling.html
-published: false
+published: true
 
 ---
 

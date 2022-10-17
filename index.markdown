@@ -22,6 +22,11 @@ De belangrijkste deadlines zal je direct hier vinden.
 -  Opdracht 4 - Deliverable 2: Presentatie Ideate Fase 
 -  Opdracht 3 - Deliverable 3: Debrief Presentatie Ideate Fase
 
+
+## UX Studio I - Team Assessments Planning
+
+<img src="UXS-01-teamasses.png"/>
+
 ## Roosters
-[OP1 - Klas A Rooster](Rooster IUXD - 2223 - OP1 - Klas A.pdf){: .btn .btn-purple }
-[OP1 - Klas B Rooster](Rooster IUXD - 2223 - OP1 - Klas B.pdf){: .btn .btn-purple }
+[OP1 - Klas A Rooster](Rooster IUXD - 2223 - Klas A.pdf){: .btn .btn-purple }
+[OP1 - Klas B Rooster](Rooster IUXD - 2223 - Klas B.pdf){: .btn .btn-purple }

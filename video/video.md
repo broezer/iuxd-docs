@@ -4,7 +4,7 @@ layout: default
 title: Case Video
 parent: Video Visualization
 permalink: /video/case-video.html
-published: false
+published: true
 
 ---
 
@@ -253,7 +253,7 @@ visueel een verhaal moet vertellen.
 ### Deadline
 
 De deadline voor het uiteindelijke script/scenario & (moving) moodboard
-is in week 4 op **maandag 6 december** om **17:00**.
+is in week 4 op **maandag 5  december** om **17:00**.
 
 Daarvoor heb je een eerste versie van het scenario besproken met je
 begeleidende docent voor dit vak. Het script/scenario upload je naar
@@ -299,7 +299,7 @@ waaraan je dit verhaal verteld. Wat verwachten zij van jouw casevideo?
 ### Deadline
 
 De deadline voor het definitieve moving storyboard & moodboard is in
-week 4 op **maandag 6 december** om **17:00**.
+week 4 op **maandag 5 december** om **17:00**.
 
 Zorg dat je tussentijds het low-fidelity storyboard besproken hebt met
 je begeleidend docent.
@@ -347,7 +347,7 @@ Op de shotlist omschrijf je de volgende onderdelen:
 
 ### Deadline
 
-De deadline voor de shotlist is in week 4 op **maandag 6 december** om
+De deadline voor de shotlist is in week 4 op **maandag 5 december** om
 **17:00**. Zorg dat je deze op orde hebt, voordat je begint met opnames
 maken. Zo hou je het overzicht en kun je er voor zorgen dat je opnames
 vloeiend verlopen.
@@ -541,7 +541,7 @@ het prototype en de emotionele beleving van de gebruiker.
 ### Deadline
 
 De deadline voor de case video is in de week van de eindpresentaties
-week 7 op **vrijdag 14 januari** om **12:00**.
+week 7 op **vrijdag 13 januari** om **17:00**.
 
 ### Opleveren
 
